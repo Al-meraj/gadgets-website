@@ -1,0 +1,30 @@
+.container{
+    margin-bottom: 100px;
+    
+}
+
+
+.color{
+
+    color:gray;
+}
+.buy-button{
+    background-color: black;
+    color:white;
+    padding:10px 20px;
+    border-radius:10px;
+}
+.font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 40px;
+}
+.click{
+    color:orange;
+}
+.row{
+    margin-top: 50px;
+}
+.card{
+    padding:50px;
+    border:none;
+}
